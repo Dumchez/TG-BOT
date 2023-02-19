@@ -1,3 +1,3 @@
 # TELEGRAM BOT APP
 
-## This is a test telegram app
+## This is a test telegram bot app
