@@ -7,7 +7,7 @@ messages:
     start: "Hey, to save links to Pocket, firstly you should give me access, so follow this link:\n%s"
     already_authorized: "You are already authorized. Send me a link and I will save it for you ;)"
     saved_successfully: "Link succesfully saved!"
-    unknown_command: "This is not a valid command"
+    unknown_command: "This is not a valid command!"
   errors:
     default: "An unknown error occured"
     invalid_url: "It is an invalid link :/"
